@@ -1,0 +1,14 @@
+
+-ID PACIENTE 1-
+
+Nombre del Paciente: JEsus Mateo rodiguez
+Edad: 14
+Hora: 12
+Tratamiento: caries
+Descripción del tratamiento: germenes germinados
+Cantidad del tratamiento: 1
+Precio Unitario: 2
+
+Subtotal: 2
+IVA: 0.32
+Total: 2.32
